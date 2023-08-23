@@ -1,6 +1,6 @@
 /* Perimeter of a rectangle
 
-In this problem, you need to find the perimeter of a rectangle, knowing its sides
+In this problem, you need to find the perimeter of a rectangle, knowing its sides.
 
 Input data
 
